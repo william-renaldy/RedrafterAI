@@ -10,6 +10,13 @@ The Redrafter AI project is designed to redraft text using generative AI, provid
 
 ## Getting Started
 
+### Installation
+
+```bash
+git clone https://github.com/william-renaldy/RedrafterAI.git
+cd RedrafterAI
+```
+
 ### Prerequisites
 
 - Python 3.6 or higher
